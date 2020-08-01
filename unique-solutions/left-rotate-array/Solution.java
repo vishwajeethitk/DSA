@@ -1,6 +1,6 @@
 // Question URL: https://www.hackerrank.com/challenges/linkedin-practice-array-left-rotation/problem?h_r=internal-search
 // This takes O(N) time and O(1) space. This solution is simple and a novice can also think of this 
-// solution in an interview setup.
+// solution in an interview setup.test
 
 import java.io.*;
 import java.util.*;
