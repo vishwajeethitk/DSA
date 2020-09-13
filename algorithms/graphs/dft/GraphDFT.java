@@ -25,7 +25,6 @@ public class GraphDFT {
     }
 
     public void traverse(boolean visited[], int currentNode) {
-        if(visited[currentNode]) return;
         visited[currentNode] = true;
         System.out.print(currentNode + " ");
         Iterator<Integer> iterator = this.adj[currentNode].listIterator();

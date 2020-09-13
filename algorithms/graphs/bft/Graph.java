@@ -16,7 +16,7 @@ public class Graph {
     }
 
     public void addEdge(int source, int destination) {
-        this.adj[source].add(destination);
+        adj[source].add(destination);
     }
 
     public void BFT(int start) {
