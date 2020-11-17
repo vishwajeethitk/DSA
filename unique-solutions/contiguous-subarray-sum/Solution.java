@@ -1,10 +1,33 @@
-/*package whatever //do not write package name here */
+/*package whatever //do not write package name here 
+Below are sample inputs:
+2
+5 12
+1 2 3 7 5
+10 15
+1 2 3 4 5 6 7 8 9 10
+===========================================
+1
+42 468
+135 101 170 125 79 159 163 65 106 146 82 28 162 92 196 143 28 37 192 5 103 154 93 183 22 117 119 96 48 127 172 139 70 113 68 100 36 95 104 12 123 134
+===========================================
+1
+6 14
+1 2 2 1 6 7
+===========================================
+1
+6 15
+1 2 2 1 6 7
+===========================================
+1
+6 9
+1 2 2 1 6 7
+*/
 
 import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-public class Test {
+public class Solution {
 	public static void main (String[] args) {
 		//code
 		

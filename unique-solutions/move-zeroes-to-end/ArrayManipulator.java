@@ -9,7 +9,8 @@ public class ArrayManipulator {
         // int nums[] = {1};
         // int nums[] = {0};
         // int nums[] = {1, 0};
-        int nums[] = {0, 1};
+        int nums[] = {1, 9, 8, 4, 0, 0, 2, 7, 0, 6, 0, 9};
+        // int nums[] = {0, 1};
 		moveZeroesToEnd(nums);  
 		displayNums(nums);
     }
